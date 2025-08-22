@@ -25,7 +25,7 @@ public class TestCases extends testBase.TestBase{
 		newAccount.enterNumber("8625801994");
 		newAccount.enterPass("aniket1994");
 		newAccount.clickOnSubmit();
-		Thread.sleep(10000);
+		Thread.sleep(20000);
 		
 		}
 
